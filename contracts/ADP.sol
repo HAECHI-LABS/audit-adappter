@@ -1,4 +1,4 @@
-pragma solidity 0.7.1;
+pragma solidity 0.7.4;
 
 import "./erc20/ERC20Lockable.sol";
 import "./erc20/ERC20Burnable.sol";
